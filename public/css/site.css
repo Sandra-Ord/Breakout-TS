@@ -1,0 +1,32 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    vertical-align: middle;
+    background-color: black;
+}
+
+.vertical-alignment {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.status {
+    font-size: 7vw;
+    text-align: center;
+}
+
+.points {
+    font-size: 4vw;
+    text-align: center;
+}
+
+.instructions {
+    font-size: 2vw;
+    text-align: center;
+
+}
