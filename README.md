@@ -16,7 +16,7 @@ For the best user experience, play in a square or portrait-oriented browser wind
 5. [Project Structure](#project-structure)
 6. [Technologies](#technologies)
 7. [Running the Project](#running-the-project)
-8. [What I Learned](#what-i-learned)
+8. [Setting up the Initial Project](#setting-up-the-initial-project)
 
 ---
 
@@ -212,7 +212,7 @@ Breakout-TS/
 
 ---
 
-# Technologies
+## Technologies
 
 - TypeScript
 - Vite
@@ -221,9 +221,9 @@ Breakout-TS/
 
 ---
 
-# Running the Project
+## Running the Project
 
-## Prerequisites
+### Prerequisites
 
 Before running the application, ensure you have installed:
 
@@ -231,7 +231,7 @@ Before running the application, ensure you have installed:
 
 ---
 
-## Installing Dependencies
+### Installing Dependencies
 
 1. Navigate to the project directory.
 ```bash
@@ -245,7 +245,7 @@ npm install
 
 ---
 
-## Starting the Development Server
+### Starting the Development Server
 
 Run the development server:
 ```bash
